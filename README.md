@@ -1,4 +1,4 @@
-<div align="center">
+
   <h1 align="center">
     
     ### Hi there. 
@@ -13,7 +13,7 @@
      I am a frontend developer 👋
     
     <h3/>
-  <div/>
+
 
 
 <div id="header" align="center">
