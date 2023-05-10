@@ -22,5 +22,7 @@
 </div>
  ### :fire: My Stats :
  
+ [![GitHub Streak](https://streak-stats.demolab.com?user=pavelk96&theme=noctis-minimus&hide_border=true)](https://git.io/streak-stats)
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelk96&theme=dark&show_icons=true)
 
