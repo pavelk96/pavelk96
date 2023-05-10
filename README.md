@@ -1,7 +1,22 @@
 <div align="center">
   
-  ### Hi there. My name is Pavel Kedov. I am a frontend developer 👋
   
+  
+  <div align="center">
+    
+    ### Hi there. 
+    
+    <div/>
+  <div align="center">
+    
+    My name is Pavel Kedov.
+    
+    <div/>
+  <div align="center">
+    
+     I am a frontend developer 👋
+    
+    <div/>
   <div/>
 
 
