@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Hi there 👋
+  ### Hi there. My name is Pavel Kedov. I am a frontend developer 👋
   
   <div/>
 
