@@ -2,9 +2,20 @@
   
   <h1 align="center">
     
-    ### Hi there. 
+    Hi there. 
     
     <h1/>
+  
+  <h3 align="center">
+    
+    My name is Pavel Kedov.
+    
+    <h3/>
+    
+  <h3 align="center">
+    
+     I am a frontend developer 👋
+    
 
 
   
