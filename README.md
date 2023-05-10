@@ -21,6 +21,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
  ### :fire: My Stats :
- ![[GitHub Streak](https://streak-stats.demolab.com?user=pavelk96&theme=noctis-minimus&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
