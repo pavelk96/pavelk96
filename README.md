@@ -5,18 +5,7 @@
     ### Hi there. 
     
     <h1/>
-  
-  <h3 align="center">
-    
-    My name is Pavel Kedov.
-    
-    <h3/>
-    
-  <h3 align="center">
-    
-     I am a frontend developer 👋
-    
-    <h3/>
+
 
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
