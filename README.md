@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <h3 align="center">Hi there. :raised_hand_with_fingers_splayed:<h3/>
    <p align="center">My name is Pavel Kedov<p/>
-   <p align="center">I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.  <p/>
+   <p align="center">I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. :ru:  <p/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div>
