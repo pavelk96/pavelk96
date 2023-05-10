@@ -1,18 +1,18 @@
 <div align="center">
-  <div align="center">
+  <h1 align="center">
     
     ### Hi there. 
-    <div/>
-  <div align="center">
+    <h1/>
+  <h3 align="center">
     
     My name is Pavel Kedov.
     
-    <div/>
-  <div align="center">
+    <h3/>
+  <h3 align="center">
     
      I am a frontend developer 👋
     
-    <div/>
+    <h3/>
   <div/>
 
 
